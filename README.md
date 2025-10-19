@@ -1,3 +1,3 @@
 -  Hi there, I’m Aditya 👋
 -  I’m interested in Software Development.
-- I am skilled in C++, Python and Django.
+- I am skilled in C++, Python and Frontend Development.
